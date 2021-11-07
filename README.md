@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShrutiShetty10
-- 👀 I’m interested in Machine Learning & Data Analytics
+- 👀 I’m interested in Software Development,Machine Learning & Data Analytics
 - 🌱 I’m currently learning networking,machine learning
 - 📫 How to reach me https://github.com/ShrutiShetty10
 
